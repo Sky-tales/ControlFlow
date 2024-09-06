@@ -19,3 +19,4 @@ function getDayIfElse(day) {
 }
 
 console.log(getDayIfElse(1))
+//finis

@@ -18,3 +18,4 @@ switch (day) {
 }
 }
 console.log(getDayIfElse(6));
+//finis

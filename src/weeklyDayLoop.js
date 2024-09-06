@@ -27,3 +27,4 @@ function getDayIfElse(day){
     for (let day = 1; day < 8; day++) {
         console.log(getDayIfElse(day));
 }
+    //finis
