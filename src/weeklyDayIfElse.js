@@ -2,20 +2,20 @@ function getDayIfElse(day) {
     if (day === 1) {
         return "Lundi";
     } else if (day === 2) {
-        return "Mardi";
+        return "Mardi"
     } else if (day === 3) {
-        return "Mercredi";
+        return "Mercredi"
     } else if (day === 4) {
-        return "Jeudi";
+        return "Jeudi"
     } else if (day === 5) {
-        return "Vendredi";
+        return "Vendredi"
     } else if (day === 6) {
-        return "Samedi";
+        return "Samedi"
     } else if (day === 7) {
-        return "Dimanche";
+        return "Dimanche"
     } else {
-        return "Numéro de jour invalide";
+        return "Numéro de jour invalide"
     }
 }
 
-console.log(getDayIfElse(3));  // "Mercredi"
+console.log(getDayIfElse(1))
